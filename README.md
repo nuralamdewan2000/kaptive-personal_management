@@ -8,7 +8,7 @@ Personal Financial Management System API allows users to register, authenticate,
 - [API Documentation](#api-documentation)
 
 ## Live Demo
-Explore the live demo on [render.com](https://render.com): [Personal Finance Tracker](https://personal-financial-management-system.onrender.com/)
+Explore the live demo on [render.com](https://render.com): [Personal Finance Tracker](https://personal-financial-management-syatem.onrender.com/)
 
 ## Technology Stack
 The backend of this application utilizes the following technologies:
