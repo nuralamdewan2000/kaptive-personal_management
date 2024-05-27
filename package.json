@@ -8,7 +8,8 @@
     "start": "node index.js",
     "prisma": "prisma",
     "generate": "node ./node_modules/prisma generate",
-    "server": "nodemon index.js"
+    "server": "nodemon index.js",
+    "postinstall": "prisma generate"
   },
   "repository": {
     "type": "git",
