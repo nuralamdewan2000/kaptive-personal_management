@@ -1,0 +1,36 @@
+{
+  "name": "kaptive-personal_management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "prisma": "prisma",
+    "generate": "node ./node_modules/prisma generate",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuralamdewan2000/kaptive-personal_management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuralamdewan2000/kaptive-personal_management/issues"
+  },
+  "homepage": "https://github.com/nuralamdewan2000/kaptive-personal_management#readme",
+  "dependencies": {
+    "@prisma/client": "^5.14.0",
+    "axios": "^1.7.2",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.1.1"
+  },
+  "devDependencies": {
+    "prisma": "^5.14.0"
+  }
+}
